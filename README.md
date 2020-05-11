@@ -7,15 +7,21 @@ For more information about dotfiles, I wrote these articles on my blog:
 
 ## Usage
 1. Restore your safely backed up ssh keys to `~/.ssh/`
-    1. Alternatively, generate new ssh keys, and add these to your GitHub account
+
+```
+cp -R /Users/jeff/Library/Mobile\ Documents/com~apple~CloudDocs/Personal/.ssh ~
+```
+
 2. Install Homebrew and git
-  ```bash
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-  brew install git
-  ```
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install git
+```
+
 3. Clone this repository
   ```
-  git clone git@github.com:rkalis/dotfiles.git
+  git clone git@github.com:jschwartz73/dotfiles.git
   ```
 4. Run the `bootstrap.sh` script
     1. Alternatively, only run the `setup.sh` scripts in specific subfolders if you don't need everything
