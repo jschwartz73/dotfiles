@@ -1,0 +1,17 @@
+git@bitbucket.org:answersahead/developer-utils.git
+git@bitbucket.org:answersahead/parent-pom.git
+git@bitbucket.org:answersahead/answersahead-web.git web
+git@bitbucket.org:answersahead/templates.git templates
+git@bitbucket.org:answersahead/definitions.git definitions
+git@bitbucket.org:answersahead/common-models.git
+git@bitbucket.org:answersahead/ext-proclipi.git
+git@bitbucket.org:answersahead/engine-sdk.git
+git@bitbucket.org:answersahead/web-aasystem-robot.git
+git@bitbucket.org:answersahead/cognito-utils.git
+git@bitbucket.org:answersahead/engine-models.git
+git@bitbucket.org:answersahead/compatibility-play2.git
+git@bitbucket.org:answersahead/database-service.git
+git@bitbucket.org:answersahead/engine-microservices.git
+git@bitbucket.org:answersahead/build-pipeline.git
+git@bitbucket.org:answersahead/web-aasystem-robot.git
+git@bitbucket.org:answersahead/aa-spark-template-rythm
