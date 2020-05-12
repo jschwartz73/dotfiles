@@ -34,6 +34,7 @@ cask 'visual-studio-code'
 cask 'vlc'
 cask 'zoomus'
 
+brew 'awscli'
 brew 'brew-cask-completion'
 brew 'coreutils'
 brew 'duti'
