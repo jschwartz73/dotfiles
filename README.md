@@ -10,6 +10,10 @@ For more information about dotfiles, I wrote these articles on my blog:
 
 ```
 cp -R /Users/jeff/Library/Mobile\ Documents/com~apple~CloudDocs/Personal/.ssh ~
+
+or
+
+cp -R /Users/jeff/Documents/personal/.ssh ~
 ```
 
 2. Install Homebrew and git
